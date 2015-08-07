@@ -119,10 +119,10 @@
                     </view>
                     <connections>
                         <outlet property="blueControl" destination="Uba-kp-VfZ" id="3K2-2U-KXt"/>
-                        <outlet property="colorView" destination="ES2-hS-6pV" id="4W3-GY-7bj"/>
+                        <outlet property="colorView" destination="AjB-H9-6TC" id="Aj5-Hw-Q0Z"/>
                         <outlet property="greenControl" destination="eBY-rj-wRF" id="PkM-8M-cdE"/>
                         <outlet property="redControl" destination="jiK-xh-dF8" id="zeY-0b-R2D"/>
-                        <outlet property="view" destination="ES2-hS-6pV" id="159-Lj-dBp"/>
+                        <outlet property="view" destination="ES2-hS-6pV" id="g3d-j6-m8m"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>

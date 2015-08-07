@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    @IBOutlet weak var colorView: UISlider!
+    @IBOutlet weak var colorView: UIView!
     
     @IBOutlet weak var redControl: UISlider!
     @IBOutlet weak var greenControl: UISlider!
